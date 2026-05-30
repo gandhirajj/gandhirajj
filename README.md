@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+Enthusiast;Computer+Vision+Researcher;Full+Stack+Developer;Always+Learning+Something+New+🚀"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=gandhirajj&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/gandhirajj?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/gandhirajj?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 </div>
